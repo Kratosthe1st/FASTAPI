@@ -1,2 +1,2 @@
 # FASTAPI
-This is my attempt to creating APIs away from the traditional Flask and Django frameworks we are used to
+This is my self learning process of using FASTAPI, sounds easier to debug and faster to work with
